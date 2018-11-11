@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TadaHelp</string>
+    <string name="edit_name">Enter your name</string>
+    <string name="sign_in">Start Helping</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="help">Help</string>
+    <string name="not_here">Not Here</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="timerFormat">%02d:%02d</string>
+</resources>
